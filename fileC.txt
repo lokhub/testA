@@ -2,4 +2,5 @@ master remote edit 1
 master remote edit 2
 master local edit 3
 master remote edit 3
+master remote edit 4
 master local edit 4
