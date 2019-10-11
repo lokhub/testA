@@ -18,3 +18,4 @@ master remote edit 3
 master remote edit 4
 developB local edit 1
 developB local edit 2
+developB local edit 3
