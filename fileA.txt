@@ -15,14 +15,33 @@ master local edit 13
 master remote edit 2
 master local edit 14
 master remote edit 3
+master local edit 15
 master remote edit 4
+master local edit 15
+master local edit 16
+master local edit 17
+master local edit 18
+developA edit 1
+developA edit 2
+developA edit 3
+developA edit 4
+developE edit 1
+developE edit 2
+developD edit 1
+developD edit 2
+developD edit 3
 developB local edit 1
 developB local edit 2
 developB local edit 3
 developC local edit 1
 developB local edit 4
 developC local edit 2 developB will merge fast forfward
+master merging developD
+developE merging master
 developC local edit 3
+
+
+
 
 
 
