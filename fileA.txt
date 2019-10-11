@@ -39,6 +39,7 @@ developC local edit 2 developB will merge fast forfward
 master merging developD
 developE merging master
 developC local edit 3
+master local edit 19
 
 
 
