@@ -19,3 +19,4 @@ master remote edit 4
 developB local edit 1
 developB local edit 2
 developB local edit 3
+developC local edit 1
