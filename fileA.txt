@@ -31,8 +31,8 @@ developA edit 10
 developA edit 11
 master local edit 25
 developA local edit 12
+developA local done 50%...
 developA local done 25%...
-
 
 
 
